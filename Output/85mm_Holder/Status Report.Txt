@@ -1,0 +1,17 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [85mm_Holder.PcbDoc]
+   Generated File[85mm_Holder.GTS]
+   Generated File[85mm_Holder.GTL]
+   Generated File[85mm_Holder.GBL]
+   Generated File[85mm_Holder.GBS]
+   Generated File[85mm_Holder.GM1]
+   Generated File[85mm_Holder.GM]
+   Generated File[85mm_Holder.EXTREP]
+   Generated File[85mm_Holder.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 18:40:30 On 03.05.2025
