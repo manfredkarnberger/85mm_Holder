@@ -84,138 +84,58 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Output\85mm_30deg\85mm_30deg.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Output\85mm_30deg\85mm_30deg.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Output\85mm_30deg\85mm_30deg.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Output\85mm_30deg\85mm_30deg.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Output\85mm_30deg\85mm_30deg.GM
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Output\85mm_30deg\85mm_30deg.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Output\85mm_30deg\85mm_30deg.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Output\85mm_30deg\85mm_30deg.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Output\85mm_30deg\85mm_30deg.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Output\85mm_30deg\85mm_30deg.REP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
 DocumentPath=Output\85mm_Holder\85mm_Holder-RoundHoles.TX4
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument2]
 DocumentPath=Output\85mm_Holder\85mm_Holder-RoundHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument3]
 DocumentPath=Output\85mm_Holder\85mm_Holder-SlotHoles.TX4
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument4]
 DocumentPath=Output\85mm_Holder\85mm_Holder-SlotHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=Output\85mm_30deg\85mm_Holder.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument16]
+[GeneratedDocument5]
 DocumentPath=Output\85mm_Holder\85mm_Holder.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Output\85mm_30deg\85mm_Holder.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
+[GeneratedDocument6]
 DocumentPath=Output\85mm_Holder\85mm_Holder.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
-DocumentPath=Output\85mm_30deg\85mm_Holder.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument7]
 DocumentPath=Output\85mm_Holder\85mm_Holder.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=Output\85mm_30deg\85mm_Holder.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument8]
 DocumentPath=Output\85mm_Holder\85mm_Holder.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument23]
-DocumentPath=Output\85mm_30deg\85mm_Holder.GM
-DItemRevisionGUID=
-
-[GeneratedDocument24]
+[GeneratedDocument9]
 DocumentPath=Output\85mm_Holder\85mm_Holder.GM
 DItemRevisionGUID=
 
-[GeneratedDocument25]
-DocumentPath=Output\85mm_30deg\85mm_Holder.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument26]
+[GeneratedDocument10]
 DocumentPath=Output\85mm_Holder\85mm_Holder.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=Output\85mm_30deg\85mm_Holder.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument28]
+[GeneratedDocument11]
 DocumentPath=Output\85mm_Holder\85mm_Holder.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument29]
-DocumentPath=Output\85mm_30deg\85mm_Holder.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument30]
+[GeneratedDocument12]
 DocumentPath=Output\85mm_Holder\85mm_Holder.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument31]
-DocumentPath=Output\85mm_30deg\85mm_Holder.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument32]
+[GeneratedDocument13]
 DocumentPath=Output\85mm_Holder\85mm_Holder.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument33]
-DocumentPath=Output\85mm_30deg\85mm_Holder.REP
-DItemRevisionGUID=
-
-[GeneratedDocument34]
+[GeneratedDocument14]
 DocumentPath=Output\85mm_Holder\85mm_Holder.REP
 DItemRevisionGUID=
 
@@ -783,36 +703,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=MathWorks
-OutputName15=MathWorks (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Orcad v7 Capture Design
-OutputName16=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD ASCII
-OutputName17=P-CAD ASCII (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=P-CAD V16 Schematic Design
-OutputName18=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

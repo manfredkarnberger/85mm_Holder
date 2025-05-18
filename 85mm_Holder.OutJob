@@ -21,7 +21,7 @@ TargetOutputMedium=CAM
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=DIAdem PDF Export
+TargetPrinter=ZWCAD Virtual Eps Plotter 1.0
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -175,7 +175,7 @@ OutputFileNameMulti5==dokumentenNr+'-PP'
 UseOutputNameForMulti5=0
 OutputFileNameSpecial5=
 OpenOutput5=0
-OutputFilePath6=D:\ws_Altium\85mm_Holder\Output\85mm_Holder\
+OutputFilePath6=D:\ws_Veratron\85mm_Holder\Output\85mm_Holder\
 ReleaseManaged6=0
 OutputBasePath6=Output\
 OutputPathMedia6=85mm_Holder
@@ -259,7 +259,7 @@ OpenGerberOutput5=0
 OpenNCDrillOutput5=0
 OpenIPCOutput5=0
 EnableReload5=0
-RelativeOutputPath6=D:\ws_Altium\85mm_Holder\Output\85mm_Holder\
+RelativeOutputPath6=D:\ws_Veratron\85mm_Holder\Output\85mm_Holder\
 OpenOutputs6=0
 AddToProject6=1
 TimestampFolder6=0
