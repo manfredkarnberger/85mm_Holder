@@ -83,62 +83,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Output\53mm_Holder\53mm_Holder-RoundHoles.TX4
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Output\53mm_Holder\53mm_Holder-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Output\53mm_Holder\53mm_Holder-SlotHoles.TX4
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Output\53mm_Holder\53mm_Holder-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Output\53mm_Holder\53mm_Holder.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Output\53mm_Holder\53mm_Holder.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Output\53mm_Holder\53mm_Holder.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Output\53mm_Holder\53mm_Holder.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Output\53mm_Holder\53mm_Holder.GM
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Output\53mm_Holder\53mm_Holder.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Output\53mm_Holder\53mm_Holder.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Output\53mm_Holder\53mm_Holder.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Output\53mm_Holder\53mm_Holder.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Output\53mm_Holder\53mm_Holder.REP
-DItemRevisionGUID=
-
 [Parameter1]
 Name=Autor
 Value=513mk
@@ -703,36 +647,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=MathWorks
-OutputName15=MathWorks (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Orcad v7 Capture Design
-OutputName16=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD ASCII
-OutputName17=P-CAD ASCII (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=P-CAD V16 Schematic Design
-OutputName18=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
