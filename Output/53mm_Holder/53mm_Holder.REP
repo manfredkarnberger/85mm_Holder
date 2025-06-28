@@ -2,18 +2,6 @@
 FileName = 53mm_Holder.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 1
-      File : 53mm_Holder.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D15
-    D16
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
       File : 53mm_Holder.GBS
 
@@ -46,6 +34,33 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Layer
+      File : 53mm_Holder.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : 53mm_Holder.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D16
+    D17
+*************************************************************
+
+*************************************************************
 Generating : Bottom Layer
       File : 53mm_Holder.GBL
 
@@ -58,20 +73,7 @@ Used DCodes :
     D12
     D13
     D14
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : 53mm_Holder.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
+    D15
 *************************************************************
 
 *************************************************************
@@ -80,6 +82,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D17
+    D18
 *************************************************************
 
